@@ -20,6 +20,7 @@ Julia set es un conjunto definido por la función recursiva compleja ![Julia Set
 La representación del conjunto se consigue iterando, para cada punto del plano complejo, sobre la función. Teniendo un valor complejo c, se dice que un valor del plano complejo pertenere al conjunto si la sucesión queda acotada:
 
 ![sucesion0](https://wikimedia.org/api/rest_v1/media/math/render/svg/94b9c940e4b2b57c571ea8528e89473a43aa7c96)
+\\
  ![sucesion1](https://wikimedia.org/api/rest_v1/media/math/render/svg/ea17613cecf92dbe8bb5f464a3862b08678ecd08)
 
 Sabemos que la sucesión está acotada si la función alcanza un valor R denominado radio de escape.
