@@ -2,6 +2,10 @@
 # Shader
 ###### Alberto Ramos Sánchez
 
+<center>
+ <img src="captura.gif" alt="Italian Trulli">
+</center>
+
 ### Controles
 
  - *Cambiar de modo* ◄ ► : Tecla izquierda y derecha.
